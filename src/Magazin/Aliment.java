@@ -1,11 +1,5 @@
 package Magazin;
 
-enum Categorie {
-    LACTATE,
-    PAINE,
-    MEZELURI
-}
-
 public class Aliment {
     private Long dataExpirarii;
     private String ingrediente;
